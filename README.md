@@ -1,6 +1,6 @@
-# Atmospheric Science Research Project
+# Atmospheric Science Research Project 2
 
-This repository contains an independent research project conducted under the mentorship of Dr. Travis O'Brien over Fall 23 semester, focusing on the relationship between higher local sea surface temperatures and increased probability of tropical cyclones, using data analysis 
+This repository contains an independent research project conducted under the mentorship of Dr. Travis O'Brien over Spring 24 semester, focusing on the relationship between higher local sea surface temperatures and increased probability of tropical cyclones, using data analysis 
 
 ## Project Goal
 
