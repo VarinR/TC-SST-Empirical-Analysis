@@ -2,6 +2,15 @@
 
 This repository contains an independent research project conducted under the mentorship of Dr. Travis O'Brien over Spring 24 semester, focusing on the relationship between higher local sea surface temperatures and increased probability of tropical cyclones, using data analysis 
 
+## Table of Contents
+
+1. [Project Goal](#Project-Goal)
+2. [Notebooks Overview](#Notebooks-Overview)
+    - [First Notebook (SSTs1.ipynb)](#First-Notebook-(SSTs1.ipynb))
+    - [Second Notebook (SSTs2.ipynb)](#Second-Notebook-(SSTs2.ipynb))
+    - [Third Notebook (SSTs3.ipynb)](#Third-Notebook-(SSTs3.ipynb))
+    - [Fourth Notebook (SSTs4.ipynb)](#Fourth-Notebook-(SSTs4.ipynb))
+
 ## Project Goal
 
 The primary goal of this research project is to investigate the relationship between higher local sea surface temperatures (SSTs) and the probability and intensity of tropical cyclones, by analyzing SST data, identifying regions with higher than average SSTs, and examining the correlation with tropical cyclone (TC) occurrences to better understand the impact of climate change on these weather events.
@@ -41,6 +50,21 @@ The primary goal of this research project is to investigate the relationship bet
 #### Key Findings
 
 - **Plot analysis:** Most tropical cyclones do form in areas with higher than average SSTs, especially in the Western North Pacific and Eastern Indian Ocean. The North Atlantic is an exception, where higher SSTs don't always correlate with cyclone formation.
+
+### Fourth Notebook (SSTs4.ipynb)
+
+#### Objectives
+
+- **TC Genesis and SST Relationship:** Investigate the correlation between SSTs and the frequency of TC genesis, focusing on identifying SST ranges that exhibit increased cyclone activity.
+- **Tropical Grid Box Analysis:** The tropics are divided into 5° x 5° grid boxes, where average SSTs exceeding the tropical mean are identified, and the number of TCs commencing within these.
+- **SST Binning and TC Start Analysis:** Defined SST bins between 26°C to 32°C with increments of 0.5°C. Calculated the midpoints of these bins, and initialized an array to count TC starts within each bin. Processed annual data to aggregate the number of TC starts per SST bin, which was then visualized to illustrate the relationship between SSTs and TC initiation frequency.
+
+#### Key Findings
+
+- **Optimal SST Range for TC Genesis:** The SST range from 27°C to 29°C is identified as most conducive to TC formation, with a pronounced peak in TC starts observed within this interval.
+- **Variability Beyond SST:** While SST is a significant factor in TC formation, the data reveal variability and the presence of outliers, suggesting additional atmospheric factors are at play in cyclone genesis.
+- **Declining TC Formation in Higher SSTs:** The decline in TC starts at SSTs beyond the optimal range suggests a complex relationship between SST and TC genesis, where exceedingly high temperatures do not favor the development of TC.
+
 
 
 
