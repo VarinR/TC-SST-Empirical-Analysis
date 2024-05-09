@@ -7,10 +7,10 @@ This repository contains an independent research project conducted under the men
 
 1. [Project Goal](#Project-Goal)
 2. [Notebooks Overview](#Notebooks-Overview)
-    - [First Notebook (Visualise-SSTs.ipynb)](#First-Notebook-(SSTs1.ipynb))
-    - [Second Notebook (Preparing-TCdata.ipynb)](#Second-Notebook-(SSTs2.ipynb))
-    - [Third Notebook (VisualisingTC&SST.ipynb)](#Third-Notebook-(SSTs3.ipynb))
-    - [Fourth Notebook (TCstarts-BinnedAnalysis.ipynb)](#Fourth-Notebook-(SSTs4.ipynb))
+    - [Visualise-SSTs.ipynb)](Visualise-SSTs.ipynb)
+    - [Preparing-TCdata.ipynb](Preparing-TCdata.ipynb)
+    - [VisualisingTC&SST.ipynb](VisualisingTC&SST.ipynb)
+    - [TCstarts-BinnedAnalysis.ipynb](TCstarts-BinnedAnalysis.ipynb)
 
 
 ## Project Goal
@@ -19,8 +19,7 @@ The primary goal of this research project is to investigate the relationship bet
 
 ## Notebooks Overview
 
-
-### First Notebook (Visualise-SSTs.ipynb)
+### Visualise-SSTs.ipynb
 
 #### Objectives
 
@@ -33,7 +32,7 @@ The primary goal of this research project is to investigate the relationship bet
 - **Regions with Elevated SSTs:** Visual analysis pinpointed specific regions where SSTs exceed the Tropical mean. These areas are of particular interest for investigating their contribution to an increased likelihood of TC genesis.
 
 
-### Second Notebook (Preparing-TCdata.ipynb)
+### Preparing-TCdata.ipynb
 
 #### Objectives
 
@@ -43,7 +42,7 @@ The primary goal of this research project is to investigate the relationship bet
 - **Computational Efficiency:** Serialize the structured tropical cyclone data into a pickle file, optimizing data storage and retrieval processes to enhance computational efficiency.
   
 
-### Third Notebook (VisualisingTC&SST.ipynb)
+### VisualisingTC&SST.ipynb
 
 #### Objectives
 
@@ -57,7 +56,7 @@ The primary goal of this research project is to investigate the relationship bet
 - **Plot analysis:** Most tropical cyclones do form in areas with higher than average SSTs, especially in the Western North Pacific and Eastern Indian Ocean. The North Atlantic is an exception, where higher SSTs don't always correlate with cyclone formation.
 
 
-### Fourth Notebook (TCstarts-BinnedAnalysis.ipynb)
+### TCstarts-BinnedAnalysis.ipynb
 
 #### Objectives
 
