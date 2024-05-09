@@ -1,13 +1,13 @@
-# Atmospheric Science Research Project 2
+# Investigating the Impact of Sea Surface Temperature Anomalies on Tropical Cyclone Frequency: An Empirical Approach
 
-This repository contains an independent research project conducted under the mentorship of Dr. Travis O'Brien over Spring 24 semester, focusing on the relationship between higher local sea surface temperatures and increased probability of tropical cyclones, using data analysis 
+This repository contains an independent research project conducted under the mentorship of Dr Travis O'Brien focusing on SST anomalies and increased probability of TCs using data analysis.
 
 
 ## Table of Contents
 
 1. [Project Goal](#Project-Goal)
 2. [Notebooks Overview](#Notebooks-Overview)
-    - [First Notebook (SSTs1.ipynb)](#First-Notebook-(SSTs1.ipynb))
+    - [First Notebook (Visualise-SSTs.ipynb)](#First-Notebook-(SSTs1.ipynb))
     - [Second Notebook (SSTs2.ipynb)](#Second-Notebook-(SSTs2.ipynb))
     - [Third Notebook (SSTs3.ipynb)](#Third-Notebook-(SSTs3.ipynb))
     - [Fourth Notebook (SSTs4.ipynb)](#Fourth-Notebook-(SSTs4.ipynb))
@@ -15,7 +15,7 @@ This repository contains an independent research project conducted under the men
 
 ## Project Goal
 
-The primary goal of this research project is to investigate the relationship between higher local sea surface temperatures (SSTs) and the probability and intensity of tropical cyclones, by analyzing SST data, identifying regions with higher than average SSTs, and examining the correlation with tropical cyclone (TC) occurrences to better understand the impact of climate change on these weather events.
+The primary goal of this research project is to investigate the relationship between higher local SSTs and the probability of TCs. This will be achieved by analyzing SST data, identifying regions with higher-than-average SSTs, and examining the correlation with tropical cyclone occurrences. Additionally, I created a conditional probability model to better understand this relationship.
 
 ## Notebooks Overview
 
