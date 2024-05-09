@@ -8,8 +8,8 @@ This repository contains an independent research project conducted under the men
 1. [Project Goal](#Project-Goal)
 2. [Notebooks Overview](#Notebooks-Overview)
     - [First Notebook (Visualise-SSTs.ipynb)](#First-Notebook-(SSTs1.ipynb))
-    - [Second Notebook (SSTs2.ipynb)](#Second-Notebook-(SSTs2.ipynb))
-    - [Third Notebook (SSTs3.ipynb)](#Third-Notebook-(SSTs3.ipynb))
+    - [Second Notebook (Preparing-TCdata.ipynb)](#Second-Notebook-(SSTs2.ipynb))
+    - [Third Notebook (VisualisingTC&SST.ipynb)](#Third-Notebook-(SSTs3.ipynb))
     - [Fourth Notebook (SSTs4.ipynb)](#Fourth-Notebook-(SSTs4.ipynb))
 
 
@@ -20,12 +20,12 @@ The primary goal of this research project is to investigate the relationship bet
 ## Notebooks Overview
 
 
-### First Notebook (SSTs1.ipynb)
+### First Notebook (Visualise-SSTs.ipynb)
 
 #### Objectives
 
 - To analyze SST data within the tropics, focusing on trends since 1971.
-- Identify regions with local SSTs greater than tropical mean.
+- Identify regions with local SSTs greater than tropical mean (SST anamoly).
 
 #### Key Findings
 
@@ -33,7 +33,7 @@ The primary goal of this research project is to investigate the relationship bet
 - **Regions with Elevated SSTs:** Visual analysis pinpointed specific regions where SSTs exceed the Tropical mean. These areas are of particular interest for investigating their contribution to an increased likelihood of TC genesis.
 
 
-### Second Notebook (SSTs2.ipynb)
+### Second Notebook (Preparing-TCdata.ipynb)
 
 #### Objectives
 
@@ -43,14 +43,14 @@ The primary goal of this research project is to investigate the relationship bet
 - **Computational Efficiency:** Serialize the structured tropical cyclone data into a pickle file, optimizing data storage and retrieval processes to enhance computational efficiency.
   
 
-### Third Notebook (SSTs3.ipynb)
+### Third Notebook (VisualisingTC&SST.ipynb)
 
 #### Objectives
 
 - **Data visualisation:** Visualise the relation between masked SSTs and Tropical Cyclones.
 - **Yearly masked SST Extraction :** Implemented a loop to iterate over each year in the tropical data, extracting and storing masked SST data where temperatures exceed the yearly tropical mean.
 - **Storm lat and lon Extraction :** Implemented a loop to systematically extract and organize latitude and longitude data for each storm, sorted annually.
-- **Geospatial visualisation of SST and TCs:** Implemented a visualization loop to create a series of subplots, each representing a year from 1971 to 2022. For each subplot, the code plots the paths of TCs based on their latitude and longitude data, overlaying this with masked SST data to illustrate the correlation between SST anomalies and cyclone activity.
+- **Geospatial visualisation of SST and TCs:** Implemented a visualization loop to create a series of subplots, each representing a year from 1971 to 2022. For each subplot, the code plots the paths of TCs based on their latitude and longitude data, overlaying this with masked SST data to illustrate the correlation between SST anomalies and cyclone activity for a particular year.
 
 #### Key Findings
 
