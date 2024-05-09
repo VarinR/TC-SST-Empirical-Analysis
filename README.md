@@ -61,7 +61,7 @@ The primary goal of this research project is to investigate the relationship bet
 
 #### Objectives
 
-- **TC Genesis and SST Relationship:** Investigate the correlation between SSTs and the frequency of TC genesis, focusing on identifying SST ranges that exhibit increased cyclone activity.
+- **TC Genesis and SST Relationship:** Investigate the correlation between $\Delta$SSTs and the frequency of TC genesis, focusing on identifying SST ranges that exhibit increased cyclone activity.
 - **Tropical Grid Box Analysis:** The tropics are divided into 5° x 5° grid boxes, where average SSTs exceeding the tropical mean are identified, and the number of TCs commencing within these.
 - **SST Binning and TC Start Analysis:** Defined SST bins between 26°C to 32°C with increments of 0.5°C. Calculated the midpoints of these bins, and initialized an array to count TC starts within each bin. Processed annual data to aggregate the number of TC starts per SST bin, which was then visualized to illustrate the relationship between SSTs and TC initiation frequency.
 
