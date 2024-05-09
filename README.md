@@ -11,6 +11,7 @@ This repository contains an independent research project conducted under the men
     - [Preparing-TCdata.ipynb](#Preparing-TCdata.ipynb)
     - [VisualisingTC&SST.ipynb](#VisualisingTC&SST.ipynb)
     - [TCstarts-BinnedAnalysis.ipynb](#TCstarts-BinnedAnalysis.ipynb)
+    - [Conditional-Probability_model.ipynb](#Conditional-Probability_model.ipynb)
 
 
 ## Project Goal
