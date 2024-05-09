@@ -7,10 +7,10 @@ This repository contains an independent research project conducted under the men
 
 1. [Project Goal](#Project-Goal)
 2. [Notebooks Overview](#Notebooks-Overview)
-    - [Visualise-SSTs.ipynb)](Visualise-SSTs.ipynb)
-    - [Preparing-TCdata.ipynb](Preparing-TCdata.ipynb)
-    - [VisualisingTC&SST.ipynb](VisualisingTC&SST.ipynb)
-    - [TCstarts-BinnedAnalysis.ipynb](TCstarts-BinnedAnalysis.ipynb)
+    - [Visualise-SSTs.ipynb](#Visualise-SSTs.ipynb)
+    - [Preparing-TCdata.ipynb](#Preparing-TCdata.ipynb)
+    - [VisualisingTC&SST.ipynb](#VisualisingTC&SST.ipynb)
+    - [TCstarts-BinnedAnalysis.ipynb](#TCstarts-BinnedAnalysis.ipynb)
 
 
 ## Project Goal
