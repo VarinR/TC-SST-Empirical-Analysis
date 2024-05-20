@@ -61,13 +61,13 @@ The primary goal of this research project is to investigate the relationship bet
 
 #### Objectives
 
-- **TC Genesis and SST Relationship:** Investigate the correlation between delta SSTs and the frequency of TC genesis, focusing on identifying SST ranges that exhibit increased cyclone activity.
+- **TC Genesis and SST Relationship:** Investigate the correlation between $\Delta$SSTs and the frequency of TC genesis, focusing on identifying SST ranges that exhibit increased cyclone activity.
 - **Tropical Grid Box Analysis:** The tropics are divided into 5° x 5° grid boxes, where average SSTs exceeding the tropical mean are identified, and the number of TCs commencing within these.
 - **SST Binning and TC Start Analysis:** Defined SST bins between -1°C to 4°C with increments of 0.2°C. Calculated the midpoints of these bins, and initialized an array to count TC starts within each bin. Processed annual data to aggregate the number of TC starts per SST bin, which was then visualized to illustrate the relationship between SSTs and TC initiation frequency.
 
 #### Key Findings
 
-- **Optimal SST Range for TC Genesis:** The SST range from 1°C to 2°C is identified as most conducive to TC formation, with a pronounced peak in TC starts observed within this interval.
+- **Optimal SST Range for TC Genesis:** The $\Delta$SST range from 1°C to 2°C is identified as most conducive to TC formation, with a pronounced peak in TC starts observed within this interval.
 - **Variability Beyond SST:** While SST is a significant factor in TC formation, suggesting additional atmospheric factors are at play in TC genesis.
 - **Declining TC Formation in Higher SSTs:** The decline in TC starts at SSTs beyond the optimal range suggests where exceedingly high temperatures do not favor the development of TC.
 
@@ -76,9 +76,7 @@ The primary goal of this research project is to investigate the relationship bet
 
 #### Objectives
 
-- **TC Genesis and SST Relationship:** Investigate the correlation between delta SSTs and the frequency of TC genesis, focusing on identifying SST ranges that exhibit increased cyclone activity.
-- **Tropical Grid Box Analysis:** The tropics are divided into 5° x 5° grid boxes, where average SSTs exceeding the tropical mean are identified, and the number of TCs commencing within these.
-- **SST Binning and TC Start Analysis:** Defined SST bins between -1°C to 4°C with increments of 0.2°C. Calculated the midpoints of these bins, and initialized an array to count TC starts within each bin. Processed annual data to aggregate the number of TC starts per SST bin, which was then visualized to illustrate the relationship between SSTs and TC initiation frequency.
+- **TC Genesis and SST Relationship:** I
 
 #### Key Findings
 
