@@ -1,6 +1,6 @@
-# Investigating the Impact of Sea Surface Temperature Anomalies on Tropical Cyclone Frequency: An Empirical Approach
+# Investigating the Impact of Sea Surface Temperature Anomalies on Tropical Cyclone Frequency: Using An Empirical Approach
 
-This repository contains an independent research project conducted under the mentorship of Dr Travis O'Brien focusing on SST anomalies and increased probability of TCs using data analysis.
+This research project was conducted under the mentorship of Dr.Travis O'Brien.
 
 
 ## Table of Contents
