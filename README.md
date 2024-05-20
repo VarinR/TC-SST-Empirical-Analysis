@@ -11,7 +11,7 @@ This research project was conducted under the mentorship of Dr.Travis O'Brien.
     - [Preparing-TCdata.ipynb](#Preparing-TCdata.ipynb)
     - [VisualisingTC&SST.ipynb](#VisualisingTC&SST.ipynb)
     - [TCstarts-BinnedAnalysis.ipynb](#TCstarts-BinnedAnalysis.ipynb)
-    - [Conditional-Probability.ipynb](#Conditional-Probability.ipynb)
+    - [Conditional-Probability_model.ipynb](#Conditional-Probability.ipynb)
 
 
 ## Project Goal
@@ -76,26 +76,20 @@ The primary goal of this research project is to investigate the relationship bet
 
 #### Objectives
 
-- **TC Genesis and SST Relationship:** I
+- **Revision of method:** As the binned analysis performed didn't prove the hypothesis, so I began thinking of a different method.
+- **PDF:** Then I performed a PDF analysis on the separate TC counts, with an expectation that higher ΔSSTs are responsible for higher TC counts.
+- **Conditional Probability:** As the PDF analysis wasn't conclusive enough I used P(i∣ΔSST) = P(ΔSST) x P(ΔSST∣i) / P(i) to create a conditional probability model for finding the probability of having (i) number of TCs at different ΔSST values.
 
 #### Key Findings
 
-- **Optimal SST Range for TC Genesis:** The ΔSST range from 1°C to 2°C is identified as most conducive to TC formation, with a pronounced peak in TC starts observed within this interval.
-- **Variability Beyond SST:** While SST is a significant factor in TC formation, suggesting additional atmospheric factors are at play in TC genesis.
-- **Declining TC Formation in Higher SSTs:** The decline in TC starts at SSTs beyond the optimal range suggests where exceedingly high temperatures do not favor the development of TC.
+- **PDF:** Wasn't very conclusive suggesting most TCs occur in the ΔSST 1.5-2°C SST range.
+- **Conditional probability model:** This was very conclusive and showed almost 10-14x higher probability of having 4, 5 TCs in a gridbox with a ΔSST of 1.5-2.5°C which proves my hypothesis.
+
+## Conclusion
+
+The conditional probability model effectively demonstrates the significant impact of local SST anomalies on tropical cyclone frequency. The results indicate a markedly higher probability of TC occurrences in regions with ΔSSTs within the 1.5-2.5°C range, highlighting the role of sea surface temperature anomalies in cyclone genesis. Further research could explore additional atmospheric factors.
 
 
-
-
-
-
-
-
-
-
-
-
-.
 
 
 
