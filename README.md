@@ -87,7 +87,7 @@ The primary goal of this research project is to investigate the relationship bet
 
 ## Conclusion
 
-The conditional probability model effectively demonstrates the significant impact of local SST anomalies on tropical cyclone frequency. The results indicate a markedly higher probability of TC occurrences in regions with ΔSSTs within the 1.5-2.5°C range, highlighting the role of sea surface temperature anomalies in cyclone genesis. Further research could explore additional atmospheric factors.
+The conditional probability model effectively demonstrates the significant impact of local SST anomalies on tropical cyclone frequency. The results indicate a markedly higher probability of TC occurrences in regions with ΔSSTs within the 1.5-2.5°C range, which highlights the role of sea surface temperature anomalies in cyclone genesis. Further research could explore additional atmospheric factors.
 
 ![TC Frequency vs SST Anomaly](https://github.com/VarinR/TC-SST-Empirical-Analysis/blob/main/Conditional-Probability.png)
 
